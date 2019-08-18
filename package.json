@@ -1,0 +1,14 @@
+{
+  "name": "hyper-dimmed-monokai",
+  "version": "0.1.0",
+  "description": "a dimmed monokai theme for Hyper",
+  "license": "MIT",
+  "repository": "Lyncredible/hyper-dimmed-monokai.git",
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "hyper",
+    "hyper-theme"
+  ]
+}
